@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+# Abigail Pickard, PhD 
+
+Thanks for visiting my site and your interest in my research. 
+I am currently a postdoctoral fellow at Aston University in the College of Life and Health Sciences. My overarching research interests are child psychology, eating behaviours and child development.  
+The current project I am working on is the ESRC funded research Appetite in Preschoolers: Producing Evidence for Tailoring Interventions Effectively (APPETItE) [Appetite website](www.appetite-research.com)
+
 
 You can use the [editor on GitHub](https://github.com/abigailpickard/abigailpickard/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
