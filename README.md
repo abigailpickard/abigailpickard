@@ -1,4 +1,8 @@
-### Hi there 👋
+## Abigail Pickard, PhD
+Thanks for visiting my site and your interest in my research. 
+I am currently a postdoctoral fellow at Aston University in the College of Life and Health Sciences. My overarching research interests are child psychology, eating behaviours and child development.  
+The current project I am working on is the ESRC funded research Appetite in Preschoolers: Producing Evidence for Tailoring Interventions Effectively (APPETItE) [Appetite website] (www.appetite-research.com)
+
 
 <!--
 **abigailpickard/abigailpickard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
